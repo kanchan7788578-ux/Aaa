@@ -1,0 +1,6 @@
+{
+  "name": "Mymensingh Bus",
+  "description": "Realistic Bangladesh Mymensingh Bus Simulator featuring authentic city and highway routes, realistic vehicles and roads, cockpit & chase cameras, and interactive Mymensingh map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

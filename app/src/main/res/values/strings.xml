@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mymensingh Bus</string>
+    <string name="title_app">Mymensingh Bus Simulator</string>
+    <string name="subtitle_app">Bangladesh Highway &amp; City Driving</string>
+    <string name="nav_map">Map &amp; Routes</string>
+    <string name="nav_garage">Bus Garage</string>
+    <string name="nav_settings">Settings</string>
+    <string name="btn_start_drive">Start Drive</string>
+    <string name="btn_horn">Horn</string>
+    <string name="btn_door">Door</string>
+    <string name="btn_lights">Lights</string>
+    <string name="btn_wiper">Wipers</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_pause">Pause</string>
+</resources>

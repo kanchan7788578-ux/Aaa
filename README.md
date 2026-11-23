@@ -1,11 +1,14 @@
-<div align="center">
+# Mymensingh Bus Simulator (Android 3D Game)
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A real-time OpenGL ES 2.0 3D Android Bus Driving Simulator set in **Mymensingh, Bangladesh** featuring authentic local routes, Shambhuganj Bridge over the Brahmaputra River, Bangladeshi express coaches, and realistic local traffic.
 
-  <h1>Built with AI Studio</h2>
+## How to Download the Android APK via GitHub
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1. Push this project to your GitHub repository using the **Push to GitHub** option in AI Studio.
+2. Once pushed, the included GitHub Actions workflow (`.github/workflows/build-apk.yml`) automatically compiles the Android `.apk`.
+3. Open your GitHub repository in a browser:
+   - Go to **Releases** → **Mymensingh Bus Simulator (Latest APK)** and download `MymensinghBusSimulator.apk`, **or**
+   - Go to **Actions** → **Build Mymensingh Bus APK** → download `MymensinghBusSimulator-APK`.
+4. Install `MymensinghBusSimulator.apk` on your Android phone (enable *Install unknown apps* if prompted).
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+> You can also generate an APK/AAB directly from AI Studio's top settings/export menu without waiting for GitHub Actions.
